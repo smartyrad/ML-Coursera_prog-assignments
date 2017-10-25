@@ -3,7 +3,7 @@ function x = emailFeatures(word_indices)
 %from the word indices
 %   x = EMAILFEATURES(word_indices) takes in a word_indices vector and 
 %   produces a feature vector from the word indices. 
-
+%I find this very useless
 % Total number of words in the dictionary
 n = 1899;
 
